@@ -1,0 +1,51 @@
+#send{
+	font-style:italic;
+}
+#map-canvas {
+	height: 600px;
+	//border: 3px solid black;
+}
+#text-panel{
+	//border: 5px  black;
+}
+
+#end-input:focus {
+	border-color: #4d90fe;
+}		
+
+#end-input {
+	background-color: #fff;
+	font-family: Roboto;
+	font-size: 15px;
+	font-weight: 300; 
+	margin-left: 12px;
+	padding: 0 11px 0 13px;
+	text-overflow: ellipsis;
+}
+#route {
+	font-family: Roboto;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+#pac-input:focus{
+	border-color: #4d90fe;
+}		
+
+input[class=controls]{
+	background-color: #fff;
+	font-family: Roboto;
+	font-size: 15px;
+	font-weight: 300;
+	margin-left: 12px;
+	padding: 0 11px 0 13px;
+	text-overflow: ellipsis;
+}
+.returnedText{
+	width: 1000px;
+	height:100px]
+}
+
+#matrix, td{
+	border:1px solid black;
+}
